@@ -19,5 +19,5 @@ Ce projet porte sur le suivi cartographique et la planification de la réhabilit
 ![Coordination DREMG](Equipe_Coordination_DREMG.jfif)
 
 **Génération d'orthophotos haute résolution pour le suivi de la carrière :**
-![Orthophoto Drone 1](OrthophotoDrone.jpg)
-![Orthophoto Drone 2](OrthophotoDrone2.jpg)
+![Orthophoto Drone 1](OrthophotoDrone.JPG)
+![Orthophoto Drone 2](OrthophotoDrone2.JPG)
