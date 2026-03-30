@@ -1,4 +1,4 @@
-# 🏗️ Réhabilitation de la Carrière de Tattaguine (Fatick) 
+#  Réhabilitation de la Carrière de Tattaguine (Fatick) 
 
 ### 📌 Présentation du Projet
 Ce projet porte sur le suivi cartographique et la planification de la réhabilitation environnementale du site d'extraction de Tattaguine. Réalisé en collaboration étroite avec la **DREMG** (Mines) et la **DREEC** (Environnement).
