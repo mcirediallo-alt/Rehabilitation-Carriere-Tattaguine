@@ -1,7 +1,7 @@
 # Réhabilitation de la Carrière de Tattaguine (Fatick) - Février 2026
 
 ### 📌 Présentation du Projet
-Ce projet porte sur le suivi cartographique et la planification de la réhabilitation environnementale du site d'extraction de Tattaguine. Réalisé en collaboration étroite avec la **DREMG** (Mines) et la **DREEC** (Environnement), cette mission visait à fournir des outils d'aide à la décision pour la restauration du site.
+Ce projet porte sur le suivi cartographique et la planification de la réhabilitation environnementale du site d'extraction de Tattaguine. Réalisé en collaboration étroite avec la **DREMG** (Mines) et la **DREEC** (Environnement) cette mission visait à fournir des outils d'aide à la décision pour la restauration du site.
 
 ### 🛠️ Expertise Déployée & Valeur Ajoutée
 * **Photogrammétrie Drone (Agisoft Metashape)** : Maîtrise complète de la chaîne d'acquisition, du pilotage de précision pour les levés aériens jusqu'au traitement des images pour la génération d'orthophotos et de MNT haute résolution.
